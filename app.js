@@ -44,7 +44,11 @@ app.configure('development', function(){
   app.use(express.errorHandler());
 });
 
+// routing to routes!
+
 app.get('/', routes.index);
+app.get('/about', routes.about);
+app.get('/contact', routes.contact);
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log("Express server listening on http://localhost:" + app.get('port'));
