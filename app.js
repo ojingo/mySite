@@ -12,6 +12,16 @@ var express = require('express')
 
 var app = express();
 
+// used by stylus to compile the CSS from their .style files
+
+function compile(str, path) {
+   return stylus(str)
+     .set('filename', path)
+     .set('compress', true)
+     .use(nib())
+     .import('nib');
+}
+
 app.configure(function(){
   app.set('port', process.env.PORT || 3000);
   app.set('views', __dirname + '/views');
@@ -30,14 +40,6 @@ app.configure(function(){
   app.use(express.static(path.join(__dirname, 'public')));
 
 });
-
-function compile(str, path) {
-   return stylus(str)
-     .set('filename', path)
-     .set('compress', true)
-     .use(nib())
-     .import('nib');
-}
 
 app.configure('development', function(){
   app.use(express.errorHandler());
