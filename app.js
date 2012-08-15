@@ -6,7 +6,9 @@
 var express = require('express')
   , routes = require('./routes')
   , http = require('http')
-  , path = require('path');
+  , path = require('path')
+  , stylus = require('stylus')
+  , nib = require('nib');
 
 var app = express();
 
