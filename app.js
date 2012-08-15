@@ -22,13 +22,22 @@ app.configure(function(){
   app.use(express.methodOverride());
   app.use(app.router);
   app.use(stylus.middleware(
-      { src: __dirname + '/public'
+      { src: __dirname + '/stylesheets'
+      , dest: __dirname + '/public'
       , compile: compile
       }
   ));
   app.use(express.static(path.join(__dirname, 'public')));
 
 });
+
+function compile(str, path) {
+   return stylus(str)
+     .set('filename', path)
+     .set('compress', true)
+     .use(nib())
+     .import('nib');
+}
 
 app.configure('development', function(){
   app.use(express.errorHandler());
