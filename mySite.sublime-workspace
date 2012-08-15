@@ -1,0 +1,449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ob",
+				"object2"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"o",
+				"object2"
+			],
+			[
+				"p",
+				"propertyName"
+			],
+			[
+				"set",
+				"setVarDeeper"
+			],
+			[
+				"setVar",
+				"setVarToB"
+			],
+			[
+				"mo",
+				"model"
+			],
+			[
+				"m",
+				"mongoose"
+			],
+			[
+				"ex",
+				"express"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"path",
+				"pathinfo"
+			],
+			[
+				"pathna",
+				"pathname"
+			],
+			[
+				"u",
+				"utf-8"
+			],
+			[
+				"pat",
+				"pathname"
+			],
+			[
+				"pathn",
+				"pathname"
+			],
+			[
+				"pan",
+				"pathInfo"
+			],
+			[
+				"pa",
+				"pathname"
+			],
+			[
+				"content",
+				"Content-Length"
+			],
+			[
+				"res",
+				"res"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"sa",
+				"sayHi"
+			],
+			[
+				"say",
+				"sayHi"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"my",
+				"myArray"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"pu",
+				"push"
+			],
+			[
+				"all",
+				"allEmployees"
+			],
+			[
+				"Ma",
+				"Manager"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"pri",
+				"printInfo"
+			],
+			[
+				"class",
+				"classCount"
+			],
+			[
+				"cal",
+				"callback"
+			],
+			[
+				"num",
+				"number_of_times"
+			],
+			[
+				"chapter_",
+				"chapter_1"
+			],
+			[
+				"last",
+				"lastName"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"foo",
+				"foo"
+			],
+			[
+				"las",
+				"lastName"
+			],
+			[
+				"mid",
+				"middleArray"
+			],
+			[
+				"fir",
+				"firstFoud"
+			],
+			[
+				"jo",
+				"join"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"unl",
+				"unless"
+			],
+			[
+				"spl",
+				"splatter"
+			],
+			[
+				"joi",
+				"joinArguments"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"defa",
+				"defaulTaxRate"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"tod",
+				"today"
+			],
+			[
+				"S",
+				"Saturday"
+			],
+			[
+				"un",
+				"unless"
+			],
+			[
+				"user",
+				"userExists"
+			],
+			[
+				"some",
+				"someValue"
+			],
+			[
+				"po",
+				"postData"
+			],
+			[
+				"r",
+				"router"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 371.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tmacbook/Documents/CODING/JavaScript/objectGraphs/properties_objects.js",
+		"/Users/tmacbook/Documents/CODING/JavaScript/objectGraphs/test.jade",
+		"/Users/tmacbook/Documents/CODING/JavaScript/objectGraphs/comparisons.js",
+		"/Users/tmacbook/Documents/CODING/JavaScript/objectGraphs/functions.js",
+		"/Users/tmacbook/Documents/CODING/JavaScript/objectGraphs/variables.js",
+		"/Users/tmacbook/Documents/CODING/GitTests/src/branchMade.txt",
+		"/Users/tmacbook/Documents/CODING/GitTests/testFile_01.txt",
+		"/Users/tmacbook/Documents/CODING/GitTests/src/aheadCheckins.txt",
+		"/Users/tmacbook/Documents/CODING/GitTests/addedInBranch.txt",
+		"/Users/tmacbook/Documents/CODING/GitTests/public/public3.txt",
+		"/Users/tmacbook/Documents/CODING/GitTests/public/public2.txt",
+		"/Users/tmacbook/Documents/CODING/GitTests/public/public.txt",
+		"/Users/tmacbook/Documents/CODING/GitTests/src/addedWhileInBranch.txt",
+		"/Users/tmacbook/Documents/CODING/GitTests/src/newFile_02.txt",
+		"/Users/tmacbook/Documents/CODING/GitTests/src/okFileToKeep.txt",
+		"/Users/tmacbook/Documents/CODING/GitTests/src/keepMe.txt",
+		"/Users/tmacbook/Documents/CODING/GitTests/testFile_02.txt",
+		"/Users/tmacbook/Documents/CODING/GitTests/mergeMe.txt",
+		"/Users/tmacbook/Documents/CODING/GitTests/src/testFile_branchCreated_02.txt",
+		"/Users/tmacbook/Documents/CODING/GitTests/testFile_branchCreated_01",
+		"/Users/tmacbook/Documents/CODING/GitTests/dir/testFile_04_toBeRemoved.txt",
+		"/Users/tmacbook/Documents/CODING/GitTests/testFile_03_toBeRemoved.txt",
+		"/Users/tmacbook/Documents/CODING/express/coffeepress/test.js",
+		"/Users/tmacbook/Documents/CODING/PeepNode/HotPie/server.js",
+		"/Users/tmacbook/Documents/CODING/PeepNode/HotPie/apps/authentication/views/login.jade",
+		"/Users/tmacbook/Documents/CODING/PeepNode/HotPie/apps/authentication/routes.coffee",
+		"/Users/tmacbook/Documents/CODING/PeepNode/HotPie/package.json",
+		"/Users/tmacbook/Documents/CODING/PeepNode/HotPie/HotPie.sublime-project",
+		"/Users/tmacbook/Documents/CODING/PeepNode/HotPie/.gitignore",
+		"/Users/tmacbook/Documents/CODING/express/todo/src/controllers/todos_controller.coffee",
+		"/Users/tmacbook/Documents/CODING/express/todo/src/controllers/responders/responder.coffee",
+		"/Users/tmacbook/Documents/CODING/express/todo/app.coffee",
+		"/Users/tmacbook/Documents/CODING/express/todo/src/controllers/responders/index_responder.coffee",
+		"/Users/tmacbook/Documents/CODING/express/todo/src/controllers/responders/create_responder.coffee",
+		"/Users/tmacbook/Documents/CODING/express/todo/src/controllers/responders/show_responder.coffee",
+		"/Users/tmacbook/Documents/CODING/express/todo/src/controllers/responders/update_responder.coffee",
+		"/Users/tmacbook/Documents/CODING/express/todo/src/controllers/responders/destroy_responder.coffee",
+		"/Users/tmacbook/Documents/CODING/express/todo/src/models/todo.coffee",
+		"/Users/tmacbook/Documents/CODING/express/todo/src/configuration.coffee",
+		"/Users/tmacbook/Documents/CODING/express/todo/src/views/index.ejs",
+		"/Users/tmacbook/Documents/CODING/express/todo/src/controllers/home_controller.coffee",
+		"/Users/tmacbook/Documents/CODING/express/todo/src/models/database.coffee",
+		"/Users/tmacbook/Documents/CODING/Coffee/Programming with Coffee/coffee/Cakefile.coffee",
+		"/Users/tmacbook/Documents/CODING/Coffee/Programming with Coffee/js/sayHi.js",
+		"/Users/tmacbook/Documents/CODING/Coffee/Programming with Coffee/coffee/sayHi.coffee",
+		"/Users/tmacbook/Downloads/game-of-life/coffeescripts/game_of_life.coffee",
+		"/Users/tmacbook/Documents/CODING/Coffee/Programming with Coffee/repl1.coffee",
+		"/Users/tmacbook/Documents/CODING/Coffee/Programming with Coffee/repl1.js",
+		"/Users/tmacbook/Documents/CODING/Coffee/Programming with Coffee/coffee/putstoJSfolder.coffee",
+		"/Users/tmacbook/Documents/CODING/Coffee/Programming with Coffee/coffee/differentCoffee.coffee",
+		"/Users/tmacbook/Documents/CODING/nodeServer/node_modules/formidable/Readme.md",
+		"/Users/tmacbook/Documents/CODING/Meteor/leaderboard/leaderboard.css",
+		"/Users/tmacbook/Documents/CODING/Coffee/first CoffeeScript tests/fib.js",
+		"/Users/tmacbook/Documents/CODING/nodeServer/router.js",
+		"/Users/tmacbook/Documents/CODING/nodeServer/requestHandlers.js",
+		"/Users/tmacbook/Documents/CODING/nodeServer/server.js",
+		"/Users/tmacbook/Documents/CODING/nodeServer/index.js",
+		"/Users/tmacbook/Documents/Coffee/node/router.js",
+		"/Users/tmacbook/Documents/Coffee/node/requestHandlers.js",
+		"/Users/tmacbook/Documents/Coffee/node/server.js",
+		"/Users/tmacbook/Documents/Coffee/node/index.js",
+		"/Users/tmacbook/Documents/Coffee/fib.coffee"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"pathInfo",
+			"month",
+			"Hello",
+			"name",
+			"/tmp/test.png"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"console.log"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true
+}
