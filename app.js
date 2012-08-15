@@ -32,8 +32,7 @@ app.configure(function(){
   app.use(express.methodOverride());
   app.use(app.router);
   app.use(stylus.middleware(
-      { src: __dirname + '/stylesheets'
-      , dest: __dirname + '/public'
+      { src: __dirname + '/public'
       , compile: compile
       }
   ));
