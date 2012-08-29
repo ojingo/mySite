@@ -3,12 +3,16 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node app"
+    "start": "node app.js"
   },
   "dependencies": {
     "express": "3.0.0rc1",
     "jade": "~0.27.2",
     "stylus": "~0.28.2",
     "nib": "~0.7.0"
+  },
+  "subdomain": "ojingo.mySite",
+  "engines": {
+    "node": "0.8.x"
   }
 }
