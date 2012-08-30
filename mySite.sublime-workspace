@@ -243,7 +243,7 @@
 			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 228,
+				"buffer_size": 304,
 				"line_ending": "Unix"
 			}
 		},
@@ -268,6 +268,14 @@
 			"settings":
 			{
 				"buffer_size": 331,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/stylesheets/style.styl",
+			"settings":
+			{
+				"buffer_size": 1594,
 				"line_ending": "Unix"
 			}
 		}
@@ -419,7 +427,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -427,15 +435,15 @@
 					"file": "package.json",
 					"settings":
 					{
-						"buffer_size": 228,
+						"buffer_size": 304,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								19,
-								19
+								0,
+								0
 							]
 						],
 						"settings":
@@ -516,13 +524,43 @@
 						"selection":
 						[
 							[
-								331,
-								331
+								138,
+								138
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/stylesheets/style.styl",
+					"settings":
+					{
+						"buffer_size": 1594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								437,
+								437
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
